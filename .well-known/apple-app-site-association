@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["AZMPB2S772.com.ibsx.QuizForge"],
+        "components": [
+          { "/": "/pocketrounds-legal/invite/sponsor*", "comment": "Sponsor (SPC) invite" },
+          { "/": "/pocketrounds-legal/invite/host*", "comment": "Event host (EPC) invite" }
+        ]
+      }
+    ]
+  }
+}
